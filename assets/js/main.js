@@ -97,7 +97,7 @@ const sr = ScrollReveal({
   distance: "60px",
   duration: 2000,
   delay: 300,
-  reset: true,
+  // reset: true,
 });
 
 sr.reveal(".home__bg", { scale: 1.1, opacity: 1 });
